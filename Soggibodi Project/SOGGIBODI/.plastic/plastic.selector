@@ -1,0 +1,4 @@
+repository "SOGGIBODI@Spitfire_Interactive@cloud"
+  path "/"
+    br "/main"
+    co "/main"
